@@ -1,1 +1,1 @@
-web: gunicorn app:main --preload -b 0.0.0.0:${PORT}
+web: gunicorn main:app --preload -b 0.0.0.0:${PORT}
