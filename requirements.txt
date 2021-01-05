@@ -1,2 +1,2 @@
 https://github.com/vstavrinov/streamlink/archive/master.zip
-unicorn==19.10.0
+gunicorn==19.10.0
